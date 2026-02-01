@@ -1,0 +1,21 @@
+{
+  "name": "NtricAcid Security Lab",
+  "short_name": "NtricAcid",
+  "description": "High-speed professional educational platform for ethical hacking, vulnerability research, and security methodologies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
